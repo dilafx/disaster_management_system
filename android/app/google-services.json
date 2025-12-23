@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056618340036",
+    "project_id": "disasterrelief-system",
+    "storage_bucket": "disasterrelief-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056618340036:android:9ec04a003b194ecfa33391",
+        "android_client_info": {
+          "package_name": "com.example.disaster_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFgpaevCm7eR6-R2MN61vXRaZo73IMrqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
